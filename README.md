@@ -1,6 +1,6 @@
 # My_Portfolio
 
-🌐 #Personal Portfolio Website
+🌐 Personal Portfolio Website
 
 This is my personal portfolio website developed using HTML, CSS, and JavaScript. The project showcases my skills, projects, and contact information in a clean and responsive design.
 
